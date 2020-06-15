@@ -1,5 +1,8 @@
+import React from 'React';
+import ReactDOM from 'react-dom';
 import Header from './header';
 import Main from './main';
+import Section from './section';
 
 function App() {
   return <Header />;

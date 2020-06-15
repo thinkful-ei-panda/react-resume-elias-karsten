@@ -1,4 +1,4 @@
-const Section = (
+function Section = (
   <section>
     <p>More info on Sally</p>
   </section>

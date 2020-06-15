@@ -1,4 +1,4 @@
-const Main = (
+function Main = (
   <main>
     <p>This is all the information you need on Sally</p>
   </main>

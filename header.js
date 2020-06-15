@@ -1,4 +1,4 @@
-const Header = (
+function Header = (
   <header>
     <h1>Sally Student</h1>
   </header>
